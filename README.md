@@ -4,8 +4,8 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
  
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -76,31 +76,31 @@
 ### Technologies Used
 <br />
 * <i></i>    
-    
+
     * Calling Methods
-    
+
     * Conditionals (if/else)
-    
+
     * Looping (while loops)
-    
+
     * Constant variables
-    
+
     * Java math floor and round functions
-    
+
     * Switch
 
 ### Lessons Learned
 <br />
-* <i></i> 
+* <i></i>
 
     * If something has to be forced in order to work it is best to take a step back in order
       to analyze different possible routes that solve the problem with a better design principle.
-    
+
     * Create a functioning program prior to delving into user input break concerns.
       It is easier to analyze potential falls when the whole structure is there to analyze.
-    
+
     * Constant variables help tremendously with creating safer code regarding final values.
-    
+
 <br />
 <br />
 
@@ -109,7 +109,7 @@
 
 <!-- USAGE EXAMPLES -->
 ## Usage
- 
+
 * Run the application by launching.
     * Once the program has launched you will be prompted asking the price of the item.
     * Once a valid price is submitted the user presses [enter].
@@ -134,7 +134,7 @@ Contributions are what make the open source community such an amazing place to b
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request 
+5. Open a Pull Request
 
 
 

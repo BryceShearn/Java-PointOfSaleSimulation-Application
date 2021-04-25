@@ -14,6 +14,12 @@ public class MakeChange {
 		final double FIVES = 5, TENS = 10, TWENTIES = 20;
 		
 	//	computerImage();		   //menu
+	
+	{
+	int counter = 0;
+	while (counter < 100) 
+	counter ++;
+		
 		System.out.print("What is the price of the item?:");
 		itemPrice = cashRegister.nextDouble();		
 
@@ -82,6 +88,7 @@ public class MakeChange {
 			if (pennies > 0) {
 			System.out.println("$0.01: [" + pennies + "]");
 			}
+		}
 	}	
 	
 		public static int saleLimiterResponse(Scanner cashRegister) {			
@@ -109,7 +116,9 @@ public class MakeChange {
 	    		}
 	    		int zero = 0;
 	    		return zero;	
-	/*	}
+	}
+}	
+	    		/*	}
 	    		
 	    		public static int computerImage() {
 System.out.println("                                                                       ");
@@ -141,8 +150,6 @@ System.out.println("       88888888888888888888888888888888888888888888888888888
 
 	    		int twelve = 12;
 	    		return twelve; */
-		}
-}
 
 
 
