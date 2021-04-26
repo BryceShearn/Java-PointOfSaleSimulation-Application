@@ -105,7 +105,7 @@
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
+ 
 * Run the application by launching.
     * Once the program has launched you will be prompted asking the price of the item.
     * Once a valid price is submitted the user presses [enter].
