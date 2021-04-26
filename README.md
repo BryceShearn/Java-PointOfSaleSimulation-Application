@@ -27,11 +27,11 @@
       <br />
       <br />
       <br />
-      denotes individual nominations to return to the customer if change is due at the end of sale.
+      * denotes individual nominations to return to the customer if change is due at the end of sale.
       <br />
       <br />
       <br />
-      --Invalid user input returns abort transactions / management overrides / and re-entries.
+      * --Invalid user input returns abort transactions / management overrides / and re-entries.
       <br />
       <br />
       <br />
