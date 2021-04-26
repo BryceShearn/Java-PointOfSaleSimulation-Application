@@ -75,7 +75,7 @@
 <i></i>
 ### Technologies Used
 <br />
-* .    
+* <i></i>    
     
     * Calling Methods
     
