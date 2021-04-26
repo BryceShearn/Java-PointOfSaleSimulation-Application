@@ -91,8 +91,10 @@
 
 ### Lessons Learned
 <br />
-* If something has to be forced in order to work it is best to take a step back in order
-    to analyze different possible routes that solve the problem with a better design principle.
+* <i></i> 
+
+    * If something has to be forced in order to work it is best to take a step back in order
+      to analyze different possible routes that solve the problem with a better design principle.
     
     * Create a functioning program prior to delving into user input break concerns.
       It is easier to analyze potential falls when the whole structure is there to analyze.
