@@ -75,7 +75,8 @@
 <i></i>
 ### Technologies Used
 <br />
-* Calling Methods
+* <i></i>    
+    * Calling Methods
     
     * Conditionals (if/else)
     
